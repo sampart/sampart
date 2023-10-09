@@ -28,4 +28,4 @@ And maybe some other things I've added in the meantime. But if they were really 
 
 I have plenty of non-programming things to do in my free time, so my GitHub account isn't the best place to find evidence of my programming abilities - almost all of my professional work is on private repos elsewhere, sorry! You'll see little bits and bobs in others' public repos in the contributions section below, plus `x contributions in private repositories`, showing that I really do make contributions elsewhere, honest :wink:.
 
-_Among other places, you can find me on [StackOverflow](https://stackoverflow.com/users/328817/sam) and [LinkedIn](https://www.linkedin.com/in/sam-partington-12024943)._
+My website (see sidebar) is probably a good next step, if you're interested in seeing my technical writing and presenting.
