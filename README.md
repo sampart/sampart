@@ -1,5 +1,9 @@
 # What's here?
 
+## Awesome Tech Ethics Resources
+
+[awesome-tech-ethics-resources](https://github.com/sampart/awesome-tech-ethics-resources): Resources for mitigating and avoiding the potential negative effects of technology on society.
+
 ## Re-homed open source libraries
 
 I'm providing a home for a number of open-source libraries from the [whiteoctober](https://github.com/whiteoctober) organisation, since that organisation is due to be deleted.
